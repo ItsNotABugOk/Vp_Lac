@@ -4,6 +4,16 @@
  */
 
  body {
+   margin-top: 15%;
     background: #0ebe92;
+    text-align: center;
     
+  }
+  .btn{
+
+    font-size: 10px;
+    background-color: rgb(163, 137, 187);
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
   }
